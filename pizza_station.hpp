@@ -1,3 +1,4 @@
+// compiled with g++ --version 12.1.0
 #include <vector>
 
 /*
