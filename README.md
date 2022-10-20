@@ -14,9 +14,8 @@ Standard compile main.cpp and pizza_station.cpp with compiler such as g++ via co
 2) my_executable
 
 ### Next Steps:
-Add doc strings to functions<br/>
 Add more topping options<br/>
 Add add-on sales like drinks<br/>
 
 ### Known bugs:
-Possible bug with order pricing calculations if chosing not to confirm order but to go back and chance topping options
+Possible bug with order pricing calculations if chosing not to confirm order but to go back and chance topping options - need to confirm
